@@ -3,21 +3,21 @@ const Projects = () => {
     {
       title: "Digital Pulse",
       description: "A modern web design landing page showcasing creative digital solutions. Features responsive design, interactive elements, and a clean user interface.",
-      image: "/src/assets/p1.png",
+      image: "/p1.png",
       link: "http://mohsan1081.atwebpages.com/",
       technologies: ["HTML", "CSS", "JavaScript", "Bootstrap"]
     },
     {
       title: "Netflix Clone",
       description: "A feature-rich Netflix clone with movie browsing, authentication, and responsive design. Includes movie trailers, categories, and a modern UI.",
-      image: "/src/assets/p2.png",
+      image: "/p2.png",
       link: "http://netflix-clone-mpqmfagbo-mohsan-alis-projects-a2ecac61.vercel.app",
       technologies: ["CSS", "Tailwind CSS", "JavaScript"]
     },
     {
       title: "iNotebook",
       description: "A full-stack note-taking application with user authentication, CRUD operations, and real-time updates. Secure and user-friendly interface.",
-      image: "/src/assets/p3.png",
+      image: "/p3.png",
       link: "https://i-note-book-mohsan.vercel.app/",
       technologies: ["React.js", "Node.js", "Express", "MongoDB", "JWT"]
     }
