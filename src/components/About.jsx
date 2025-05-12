@@ -71,7 +71,7 @@ const About = () => {
               </a>
             </div>
             <a
-              href="/src/assets/Mycv.pdf"
+              href="/Mycv.pdf"
               download
               className="mt-6 inline-block px-8 py-3 bg-[#7F00FF] text-white rounded-lg font-semibold shadow hover:bg-[#00E0FF] transition-colors duration-300"
             >
